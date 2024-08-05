@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Image from "G:/Images/00171679.jpg";
 import { LazyLoadImage } from "react-lazy-load-image-component";
